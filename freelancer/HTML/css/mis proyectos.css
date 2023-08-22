@@ -1,0 +1,49 @@
+body{
+  background-image: url(./gears\ 2.jfif);
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir el contenedor */
+  background-position: center;
+  background-color: rgb(129, 127, 127);
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  height: 905px; 
+  
+}
+ul{
+    text-align: center;
+    background-color: rgb(68, 68, 68);
+    font-size: 45px;
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.index{
+  color: white;
+  font-size: 40px;
+}
+.enlace{
+  color: white;
+  font-size: 40px;
+  }
+  
+
+a{
+  text-decoration: none;
+}
+.enlace:hover{
+  color: rgb(255, 255, 255);
+  font-size: 45px;
+  background-color: rgb(92, 91, 91);
+  width: 500px;
+}
+.index:hover{
+  font-size: 45px;
+  background-color: rgb(85, 85, 85);
+  width: 500px;
+}
+.section1{
+  color: white;
+
+}

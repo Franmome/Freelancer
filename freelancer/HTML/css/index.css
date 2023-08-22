@@ -1,0 +1,117 @@
+
+body{
+    background-color: rgb(158, 158, 158);
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    
+    /*width: 100%;*/
+    background-image: url(https://th.bing.com/th/id/R.da5767cb0a41d6f30fdd48a92b5fc8d4?rik=4iJ2v0fzM%2fr%2flg&pid=ImgRaw&r=0);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir el contenedor */
+    background-position: center;
+ color: white;
+    
+}
+.titulo{
+    
+    font-size: 20px;
+    margin-top: 1rem;
+padding: 1rem;
+}
+
+.nave{
+    text-align: center;
+  background-color: rgb(58, 58, 58);
+  font-size: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  
+  
+  
+
+}
+
+
+
+.ini{
+color: white;
+
+
+}
+.sobre{
+    color: rgb(255, 255, 255);
+}
+.clientes{
+    color: rgb(255, 253, 253);
+}
+.contacto{
+    color: rgb(255, 248, 248);
+    display: inline-block;
+    padding: 8px;
+  
+    
+    border-radius: 4px;
+    text-align: center;
+}
+.proyectos{
+  color: rgb(255, 253, 253);
+  display: inline-block;
+  padding: 9px;
+  
+  
+  border-radius: 4px;
+  text-align: center;
+}
+section{
+    padding-left: 45px;
+
+}
+main{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.halo{
+    width: 700px;
+    height: 450px;
+    padding-left: 630px;
+    margin-top: 30px;
+    position: absolute;
+    
+}
+.kjh{
+    color: rgb(255, 255, 255);
+}
+
+.zap{
+    height: 25px;
+}
+.dlf{
+    height: 10px;
+    padding-left: 2px;
+
+}
+.ukg{
+    background-color: rgb(158, 158, 158);
+}
+a{
+    text-decoration: none;
+}
+.enlace:hover{
+    color: #ffffff;
+    font-size: 48px;
+    background-color: #494949;
+    width: 350px;
+    height: 80px;
+   
+    
+}
+
+.miguel{
+        padding: 15rem;
+        color: rgb(0, 0, 0);
+}

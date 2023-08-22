@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    
+   
+  margin: 0;
+    padding: 0;
+    
+   
+  line-height: 1.6;
+  }
+  
+  *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    
+   
+  padding: 0;
+    
+   
+  margin: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    
+   
+  padding: 20px;
+  }
+  
+  section {
+    
+   
+  margin-bottom: 30px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    
+    text
+  text-align: center;
+    
+   
+  padding: 10px;
+  }
+  
+  /* Estilos específicos */
+  .destacados h2 {
+    background-color: #333;
+    padding: 0%;
+    margin: 0%;
+   
+    
+   
+  color: rgb(255, 255, 255);
+  }
+  
+  .ofertas h2 {
+    background-color: #333;
+   
+  color: rgb(255, 255, 255);
+  }
+  
